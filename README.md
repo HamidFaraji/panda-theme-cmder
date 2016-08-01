@@ -12,6 +12,12 @@ A _Superminimal_, _dark_ Syntax Theme. This is the latest version of the **Panda
 2. Open cmder.exe and click on cmder icon on title bar after this click on `Settings` or press <kbd>win + alt + p</kbd>
 3. In bottom of settings window click `Import...` button and choose `Panda-Theme-Cmder.xml`
 4. Confirm changes and click on `Save settings`.
+
+### Do not Want to Lose Other Settings ?
+1. Open cmder.exe and click on cmder icon on title bar after this click on `Settings` or press <kbd>win + alt + p</kbd>
+2. Go to `Colors` sub of `Features` setting and change standard colors to colors of this image:
+![Cmder Settings](http://s2.picofile.com/file/8262063600/cmer.jpg)
+
 Congratulations your Panda Theme is present
 
 

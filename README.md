@@ -1,7 +1,7 @@
-# Panda Syntax Theme For Cmder
 ![Panda Logo](https://raw.githubusercontent.com/siamak/Panda-Theme-Cmder/master/cover.jpg)
 
-A _Superminimal_, _dark_ Syntax Theme. This is the latest version of the **Panda Syntax** theme. It's a _dark_ syntax theme crafted especially for [Cmder](http://cmder.net/), with subtle colors that are meant to be easy on the eyes.
+## 🐼 What is Panda?
+@PandaTheme A _Superminimal_, _dark_ Syntax Theme by @siamak. This is the latest version of the **Panda Syntax** theme. It's a _dark_ syntax theme crafted especially for [Cmder](http://cmder.net/), with subtle colors that are meant to be easy on the eyes.
 
 ---
 ![Main ScreenShot](https://raw.githubusercontent.com/siamak/Panda-Theme-Cmder/master/screenshot.jpg)
@@ -21,7 +21,9 @@ A _Superminimal_, _dark_ Syntax Theme. This is the latest version of the **Panda
 
 Congratulations your Panda Theme is present
 
-
+##Contributors:
+- [Hamid Faraji](http://twitter.com/hamidgreedy)
+- [Siamk Mokhtari](http://siamak.us)  
 
 ## 🐼 About Pandas
 ![Pandas ScreenShot](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/pandas.png)
